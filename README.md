@@ -1,5 +1,6 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=24d9f8&height=180&section=header&text=Git&fontSize=40&fontColor=fff&animation=twinkling&fontAlignY=35"/> 
 
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=000000&size=35&center=true&vCenter=true&width=1000&lines=Comandos+no+Git)](https://git.io/typing-svg)
 
 
 
@@ -464,4 +465,3 @@ Sinta-se a vontade para realizar adicionar mais informações ou realizar corre�
 <br><p align="centre"><b>Visitors Count</b></p>  <p align="center"><img align="center" src="https://profile-counter.glitch.me/{AnaaQA}/count.svg" /></p> 
 <br></div>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=000000&size=35&center=true&vCenter=true&width=1000&lines=Comandos+no+Git)](https://git.io/typing-svg)
