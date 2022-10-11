@@ -17,9 +17,16 @@
 * Preparado (staged/index)
 * Consolidado (comitted);
 
-📄	
+📄 Links de apoio
+
 * [Subir as versões de novos arquivos  do VScode no Git](https://www.youtube.com/watch?v=HIqyLRKv-YE&t=603s)
 * [Abrir o GitBash no VScode](https://www.facebook.com/watch/?v=1130465534057609)
+* [Subindo seu repositório no GitHub através da linha de comando](https://dev.to/alanfabricio/subindo-seu-repositorio-no-github-atraves-da-linha-de-comando-3kcm)
+
+
+📄 Erros no GitBush
+
+* [error: failed to push some refs to 'https://github.com/AnaaQA/Projeto_Ultima.git'](https://pt.stackoverflow.com/questions/371329/error-failed-to-push-some-refs)
 
 <h1 align="center">
 <br>Padrões de commits 
