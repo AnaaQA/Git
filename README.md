@@ -16,10 +16,13 @@
 * Modificado (modified);
 * Preparado (staged/index)
 * Consolidado (comitted);
-* Link de ajuda: https://www.youtube.com/watch?v=HIqyLRKv-YE&t=603s
+
+📄	
+* [Subir as versões de novos arquivos  do VScode no Git](https://www.youtube.com/watch?v=HIqyLRKv-YE&t=603s)
+* [Abrir o GitBash no VScode](https://www.facebook.com/watch/?v=1130465534057609)
 
 <h1 align="center">
-📄<br>Padrões de commits 
+<br>Padrões de commits 
 </h1>
 
 
