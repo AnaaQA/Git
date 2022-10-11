@@ -16,7 +16,7 @@
 * Modificado (modified);
 * Preparado (staged/index)
 * Consolidado (comitted);
-
+* Link de ajuda: https://www.youtube.com/watch?v=HIqyLRKv-YE&t=603s
 
 <h1 align="center">
 📄<br>Padrões de commits 
