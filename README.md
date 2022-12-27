@@ -11,6 +11,20 @@
   <summary><b><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a>  
 
 
+
+Comando	Funcionalidade
+git init	Cria um novo repositório
+git clone caminho_projeto	Copia um projeto de um servidor remoto
+git status	Exibe o status dos arquivos modificados
+git log	Registro do que foi feito
+git branch nome_branch	Cria uma nova branch 
+git branch -b nome_branch	Copia os dados e cria uma branch nova
+git add nome_arquivo	Permite que um arquivo seja monitorado e o adiciona para a área de envio
+git add .	Adiciona todos os arquivos de uma vez só
+git commit -m “”	Permite confirmar a adição do arquivo e inserir um comentário
+git push origin nome_branch	Envia os arquivos para o servidor remoto
+git pull origin nome_branch	Atualiza o repositório local com os dados do servidor remoto
+git merge nome_branch	Mescla arquivos de branches distintas
 ## Git status
 
 * Modificado (modified);
